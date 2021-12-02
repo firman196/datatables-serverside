@@ -1,7 +1,10 @@
+
+
 # Contoh datatables server side dengan menggunakan yajra datatable
 Aplikasi ini digunakan untuk pembelajaran cara penggunaan package yajra datatables pada laravel 8 . 
 Untuk tutorial lengkapnya kalian dapaat membukanya di [kodekreasi.com](https://www.kodekreasi.com/)
-dengan judul [Cara menggunakan yajra datatables server side di Laravel 8](https://www.php.net/)
+dengan judul [Cara menggunakan yajra datatables server side di Laravel 8](https://kodekreasi.com/yajra-datatables-server-side/)
+
 
 ## Requirement ##
 
